@@ -1,1 +1,1 @@
-Welcome to my <a herf="https://chaoyuesong.github.io/" target="_blank" >homepage</a>!
+[Welcome to my homepage!](https://chaoyuesong.github.io/)
